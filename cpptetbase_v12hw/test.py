@@ -1,0 +1,1 @@
+print(len("4aasa 1asssssssss0adsddq"))
